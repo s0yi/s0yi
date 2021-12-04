@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @s0yi
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning gaming
-- 💞️ I’m looking to collaborate on balls
 - 📫 How to reach me fak off init
 
 <!---
